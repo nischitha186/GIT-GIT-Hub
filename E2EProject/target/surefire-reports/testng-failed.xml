@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="E2EFramework.TestNgListeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test2(failed)">
+    <classes>
+      <class name="E2EFramework.ValidateTitle">
+        <methods>
+          <include name="initializer"/>
+          <include name="basePageNavigation"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- E2EFramework.ValidateTitle -->
+      <class name="E2EFramework.HomePage">
+        <methods>
+          <include name="initializer"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- E2EFramework.HomePage -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
