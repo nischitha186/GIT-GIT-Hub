@@ -1,0 +1,7 @@
+16:36.217 [main] INFO  E2EFramework.HomePage - Driver is initialized
+16:53.852 [main] INFO  E2EFramework.HomePage - Login details passed
+16:56.446 [main] DEBUG E2EFramework.HomePage - Login button is clicked
+16:01.086 [main] INFO  E2EFramework.HomePage - Login details passed
+16:02.791 [main] DEBUG E2EFramework.HomePage - Login button is clicked
+16:06.792 [main] INFO  E2EFramework.HomePage - Login details passed
+16:08.354 [main] DEBUG E2EFramework.HomePage - Login button is clicked
