@@ -18,7 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-        System.out.println("to revert");
+        System.out.println("to revert123");
         System.out.println("Here in branch");
         System.out.println("Develop update old project");
         System.out.println("Develop update new project");
