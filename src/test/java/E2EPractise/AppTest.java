@@ -24,6 +24,8 @@ public class AppTest
         System.out.println("Here in master");
         System.out.println("Here in master");
         System.out.println("Here in master");
+        System.out.println("Here in branch1");
+        System.out.println("Here in branch2");
     }
 
     /**
