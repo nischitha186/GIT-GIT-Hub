@@ -18,6 +18,8 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        System.out.println("Develop update old project");
+        System.out.println("Develop update new project");
     }
 
     /**
@@ -33,6 +35,7 @@ public class AppTest
      */
     public void testApp()
     {
+    	System.out.println("Develop only old proj");
         assertTrue( true );
     }
 }
