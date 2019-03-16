@@ -21,6 +21,7 @@ public class AppTest
         System.out.println("Here in branch");
         System.out.println("Develop update old project");
         System.out.println("Develop update new project");
+        System.out.println("Here in master");
     }
 
     /**
