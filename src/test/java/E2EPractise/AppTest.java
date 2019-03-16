@@ -38,5 +38,7 @@ public class AppTest
     {
     	System.out.println("Develop only old proj");
         assertTrue( true );
+        System.out.println("Here in branch");
+        System.out.println("Here in branch");
     }
 }
