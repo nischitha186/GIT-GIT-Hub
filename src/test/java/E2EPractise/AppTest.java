@@ -35,6 +35,7 @@ public class AppTest
      */
     public void testApp()
     {
+    	System.out.println("Develop only old proj");
         assertTrue( true );
     }
 }
