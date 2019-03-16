@@ -25,7 +25,7 @@ public class ValidateTitle extends Base {
 		driver=initializeDriver();
 		log.debug("Browser invoker");
 		driver.get(prop.getProperty("url"));
-		log.info("Navigated to url");
+		log.info("Navigated to url  Updated in old project");
 	}
 	
 	@Test
