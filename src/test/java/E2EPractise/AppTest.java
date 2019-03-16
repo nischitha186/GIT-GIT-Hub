@@ -19,6 +19,7 @@ public class AppTest
     {
         super( testName );
         System.out.println("Develop update old project");
+        System.out.println("Develop update new project");
     }
 
     /**
