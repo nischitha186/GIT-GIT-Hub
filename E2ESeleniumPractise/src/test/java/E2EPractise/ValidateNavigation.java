@@ -24,6 +24,7 @@ public class ValidateNavigation extends Base {
 		log.debug("Browser invoker");
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to url");
+		System.out.println("Change two");
 	}
 	
 	@Test
